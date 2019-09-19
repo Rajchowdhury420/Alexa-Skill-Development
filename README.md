@@ -5,3 +5,4 @@ Simple Alexa Skills using Nodejs &amp; AWS Lamda
 
 ![alt text](https://cdn-images-1.medium.com/max/2000/1*omv7_w5zSLPlZp5rdAYCZA.png)
 
+
