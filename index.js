@@ -40,4 +40,4 @@ exports.handler = function (event, context, callback) {
 }; 
 
 
-// suck my dick nigga !!
+// Happy Alexa !!
